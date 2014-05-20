@@ -1,0 +1,14 @@
+{
+    "name": "vendor/back-end-control-listado",
+    "description": "Description of project BackEndControlListado.",
+    "authors": [
+        {
+            "name": "abarranco",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.4.3",
+        "php-activerecord/php-activerecord": "v1.1.2"
+    }
+}
